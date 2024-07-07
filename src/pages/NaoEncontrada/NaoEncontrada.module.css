@@ -1,0 +1,13 @@
+.container img {
+    height: 60vh;
+}
+
+.container h2 {
+    font-size: 36px;
+    font-weight: 600;
+}
+
+.container p {
+    font-size: 24px;
+    font-weight: 400;
+}
