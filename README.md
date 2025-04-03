@@ -29,7 +29,7 @@ Cinetag was developed as part of the React course in the Alura and Oracle Next E
 ## Installation and Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-username/cinetag.git
+   git clone https://github.com/dharitcha/react-video-platform-project.git
    ```
 2. Navigate to the project folder:
    ```sh
